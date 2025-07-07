@@ -1,0 +1,14 @@
+{
+  "data": [{
+    "id": "rahulshettyacademy",
+    "password" : "learning",
+    "name":  "Nokia Edge",
+    "country_name": "India"
+  },
+  {
+    "id": "rahulshettyacademy",
+    "password" : "learning",
+    "name":  "iphone X",
+    "country_name": "India"
+  }]
+}
